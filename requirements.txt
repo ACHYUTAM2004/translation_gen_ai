@@ -1,0 +1,6 @@
+google-generativeai
+google-adk-agents
+google-adk-runners
+google-adk-sessions
+pydantic
+streamlit
