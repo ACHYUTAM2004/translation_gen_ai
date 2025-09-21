@@ -1,7 +1,3 @@
-Of course\! Here is a comprehensive `README.md` file for your GitHub project, formatted in Markdown.
-
------
-
 # Gemini Language Translator 🌍
 
 A simple yet powerful language translation web application built with **Streamlit** and powered by **Google's Gemini API**. This tool allows you to translate any text into a wide variety of languages quickly and easily.
