@@ -117,8 +117,6 @@ The application logic is contained within `app.py`:
   - **Prompt Engineering**: When the "Translate" button is clicked, a carefully crafted prompt is sent to the Gemini API, instructing it to translate the given text and return *only* the translation, without any extra commentary or explanations.
   - **Error Handling**: A `try...except` block is included to catch and display potential errors from the API.
 
------
-
 ## Contributing 🤝
 
 Contributions are welcome! If you have suggestions for improvements or find a bug, please feel free to open an issue or submit a pull request.
