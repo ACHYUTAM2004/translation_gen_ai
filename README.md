@@ -104,6 +104,7 @@ Follow these steps to get the project running on your local machine.
 2.  Specify the language you want to translate to (e.g., "Hindi", "Spanish", "French") in the **"Translate to"** input field.
 3.  Click the **"Translate"** button.
 4.  The translated text will appear below in a green success box.
+5.  You can checkout the streamlit app at https://genai-translation.streamlit.app/
 
 -----
 
@@ -120,5 +121,3 @@ The application logic is contained within `app.py`:
 ## Contributing 🤝
 
 Contributions are welcome! If you have suggestions for improvements or find a bug, please feel free to open an issue or submit a pull request.
-
------
